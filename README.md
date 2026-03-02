@@ -131,16 +131,7 @@ Full-stack AI app that fetches, transcribes, and summarizes Instagram Reels with
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=faizantanveeer&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-<img src="https://github-profile-trophy.vercel.app?username=faizantanveeer&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=faizantanveeer&show_icons=true&theme=dracula&hide_border=false&border_radius=5&include_all_commits=true&count_private=true" height="150" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizantanveeer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph" />
-
-</div>
 
 ---
 
