@@ -152,7 +152,7 @@ Full-stack AI app that fetches, transcribes, and summarizes Instagram Reels with
    B.S. Computer Science  ·  CGPA 3.66  ·  2021 – 2025
 
 📺 StudyWudy (YouTube Founder)
-   70,000+ subscribers  ·  1,000+ students mentored  ·  2019 – 2025
+   80,000+ subscribers  ·  1,000+ students mentored  ·  2019 – 2025
 ```
 
 ---
