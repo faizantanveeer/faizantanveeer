@@ -84,29 +84,29 @@
 ## 🔬 Projects
 
 <details>
-<summary><b>🤖 Syntellio — Multi-Agent RAG System</b></summary>
+<summary><b>🤖 Multi-Agent RAG Platform</b></summary>
 <br>
 
 > **Stack:** Python · LangChain · MCP · LLMs · FAISS · Pinecone
 
-Multi-agent RAG platform with **Model Context Protocol (MCP)** support for Legal and Health Tech document intelligence.
+Agentic RAG platform with **Model Context Protocol (MCP)** support for Legal and Health Tech document intelligence.
 
-- Autonomous multi-step reasoning with dynamic tool selection
-- **60%+ retrieval accuracy** · **35% latency reduction**
-- Revamped from static pipelines → fully agentic architecture
+- Built autonomous multi-step reasoning with dynamic tool selection
+- Improved retrieval accuracy by **60%+** and reduced latency by **35%**
+- Revamped static pipelines into a fully agentic architecture
 
 </details>
 
 <details>
-<summary><b>⚖️ PreLit Copilot — Legal AI Intake</b></summary>
+<summary><b>⚖️ Legal AI Intake System</b></summary>
 <br>
 
 > **Stack:** Azure Document Intelligence · Python · LLMs · REST API
 
-AI-powered legal document processing system that extracts structured patient data from medical ledgers — eliminating manual legal case intake entirely.
+AI-powered legal document processing system for extracting structured patient data from medical ledgers and automating case intake.
 
 - Deployed production REST API endpoints
-- Integrated directly into a law firm's legal processing pipeline
+- Integrated directly into a law firm’s legal processing pipeline
 
 </details>
 
